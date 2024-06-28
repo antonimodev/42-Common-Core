@@ -1,8 +1,18 @@
 <p align="center">
-   <img src="banners/Common-Core-Banner.png">
+   <img src="https://github.com/antonimodev/42-Common-Core/blob/main/banners/Common%20Core%20Banner.png"
+      alt="42 Common Core Header"
+      width=900
+      />
 </p>
 
-## ABOUT
+<div align="center">
+   <a href="https://shields.io/">
+      <img alt="Generic badge" src="https://img.shields.io/badge/Status-In_progress-yellow.svg">
+   </a>
+</div>
+
+## ABOUT <img src="">
+
 The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
 
 This repository contains code developed at **42 Málaga Common Core**, from **08/04/2024** to **present day**.
