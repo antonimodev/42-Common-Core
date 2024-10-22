@@ -58,6 +58,12 @@ This repository contains code developed at **42 Málaga Common Core**, from **08
                  <a href="https://github.com/antonimodev/push_swap"> Push_swap </a>
               </td>
               <td><img src="https://img.shields.io/badge/100%20%2F%20100-success"/></td>
+              <tr>
+                 <td>
+                    <a href="https://github.com/antonimodev/pipex"> Pipex </a>
+                 </td>
+                 <td><img src="https://img.shields.io/badge/100%20%2F%20100-success"/></td>
+              </tr>
         </tr>
     </tbody>
 </table>
