@@ -68,8 +68,14 @@ This repository contains code developed at **42 Málaga Common Core**, from **08
                     <a href="https://github.com/antonimodev/so_long"> So_long </a>
                  </td>
                  <td><img src="https://img.shields.io/badge/102%20%2F%20100-success"/></td>
+             <tr>
+                 <td>
+                    <a href="https://github.com/antonimodev/philosophers"> Philosophers </a>
+                 </td>
+                 <td><img src="https://img.shields.io/badge/100%20%2F%20100-success"/></td>
               </tr>
         </tr>
     </tbody>
 </table>
 </div>
+
