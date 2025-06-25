@@ -74,6 +74,18 @@ This repository contains code developed at **42 Málaga Common Core**, from **08
                  </td>
                  <td><img src="https://img.shields.io/badge/100%20%2F%20100-success"/></td>
               </tr>
+          <tr>
+                 <td>
+                    <a href="https://github.com/antonimodev/minishell"> Minishell </a>
+                 </td>
+                 <td><img src="https://img.shields.io/badge/90%20%2F%20100-success"/></td>
+              </tr>
+          <tr>
+                 <td>
+                    NetPractice
+                 </td>
+                 <td><img src="https://img.shields.io/badge/100%20%2F%20100-success"/></td>
+              </tr>
         </tr>
     </tbody>
 </table>
